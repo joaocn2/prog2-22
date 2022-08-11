@@ -1,7 +1,7 @@
 ﻿using SisVet.Model;
 using System.Collections.Generic;
 
-
+//COMENTARIO
 namespace SisVet.Repository
 {
     public class VeterinarioRepository
